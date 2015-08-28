@@ -1,6 +1,6 @@
 # SaveObject
-<strong>SaveObject</strong> is a save module that will easily allow you to Load/Save then view and change values of your save file at runtime.<br/> 
-Created from a stripped down, cleaned version of <strong>Save Game</strong>, optimized for performance and low footprint.<br/> 
+<strong>SaveObject</strong> is a save module that will easily allow you to Load/Save then view and change values of your save file at runtime.
+Created from a stripped down, cleaned version of <strong>Save Game</strong>, optimized for performance and low footprint.
 You can add variables to save exactly the same way you add a variable to a script, no extra coding.<br/> 
 <br/> 
 <strong>Features:</strong><br/> 
